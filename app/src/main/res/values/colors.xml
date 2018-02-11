@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="squareColor">#d5d6da</color>
+
+
+    <color name="docx">#536DFE</color>
+    <color name="pdf">#e41e26</color>
+    <color name="txt">#62b946</color>
+    <color name="xlx">#00743f</color>
+    <color name="jpg">#ffc00e</color>
+    <color name="ppt">#f16fff</color>
+    <color name="png">#9653fa</color>
+    <color name="gif">#CDDC39</color>
+    <color name="mp3">#FF6F00</color>
+    <color name="zip">#6b6b6b</color>
+    <color name="others">#b3b3b3</color>
+
+
+
+
+</resources>

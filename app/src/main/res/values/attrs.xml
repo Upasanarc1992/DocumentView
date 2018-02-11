@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="CustomView">
+        <attr name="square_color" format="color" />
+        <attr name="square_size" format="dimension" />
+        <attr name="square_elevation" format="dimension" />
+        <attr name="square_text_size" format="dimension" />
+        <attr name="square_dy" format="dimension" />
+        <attr name="square_text" format="string" />
+        <attr name="square_text_box_color" format="color" />
+    </declare-styleable>
+</resources>
